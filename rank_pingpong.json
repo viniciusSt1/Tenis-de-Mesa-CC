@@ -1,7 +1,7 @@
 {
   "Allyson": {
-    "rating": 26.0,
-    "games": 3,
+    "rating": 44.0,
+    "games": 4,
     "rating_prev": 0
   },
   "Beatriz": {
@@ -30,13 +30,13 @@
     "rating_prev": 0
   },
   "Guilherme": {
-    "rating": 40,
-    "games": 2,
+    "rating": 51,
+    "games": 3,
     "rating_prev": 0
   },
   "Gustavo": {
-    "rating": 0,
-    "games": 0,
+    "rating": -26.6,
+    "games": 2,
     "rating_prev": 0
   },
   "Ingrid": {
@@ -55,8 +55,8 @@
     "rating_prev": 0
   },
   "Lucas": {
-    "rating": -28.0,
-    "games": 2,
+    "rating": -47.599999999999994,
+    "games": 4,
     "rating_prev": 0
   },
   "Luis": {
@@ -80,8 +80,8 @@
     "rating_prev": 0
   },
   "Nakamura": {
-    "rating": 26.0,
-    "games": 3,
+    "rating": -2.6999999999999975,
+    "games": 5,
     "rating_prev": 0
   },
   "Notlin": {
@@ -90,8 +90,8 @@
     "rating_prev": 0
   },
   "Pablo": {
-    "rating": 0,
-    "games": 0,
+    "rating": 37,
+    "games": 2,
     "rating_prev": 0
   },
   "Pedro": {
@@ -116,6 +116,11 @@
   },
   "Vinicius": {
     "rating": 6.0,
+    "games": 2,
+    "rating_prev": 0
+  },
+  "Mauricio": {
+    "rating": 41,
     "games": 2,
     "rating_prev": 0
   }
