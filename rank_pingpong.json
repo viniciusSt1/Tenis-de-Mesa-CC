@@ -1,9 +1,4 @@
 {
-  "Allyson": {
-    "rating": 64.0,
-    "games": 5,
-    "rating_prev": 0
-  },
   "Beatriz": {
     "rating": 0,
     "games": 0,
@@ -20,8 +15,8 @@
     "rating_prev": 0
   },
   "Everton": {
-    "rating": 0,
-    "games": 0,
+    "rating": 23,
+    "games": 1,
     "rating_prev": 0
   },
   "Gilberto": {
@@ -30,13 +25,13 @@
     "rating_prev": 0
   },
   "Guilherme": {
-    "rating": 66,
-    "games": 4,
+    "rating": 49.900000000000006,
+    "games": 5,
     "rating_prev": 0
   },
   "Gustavo": {
-    "rating": -26.6,
-    "games": 2,
+    "rating": -93.8,
+    "games": 9,
     "rating_prev": 0
   },
   "Ingrid": {
@@ -50,13 +45,13 @@
     "rating_prev": 0
   },
   "Kaua": {
-    "rating": 19.5,
-    "games": 4,
+    "rating": 8.100000000000005,
+    "games": 10,
     "rating_prev": 0
   },
   "Lucas": {
-    "rating": -47.599999999999994,
-    "games": 4,
+    "rating": -34.3,
+    "games": 6,
     "rating_prev": 0
   },
   "Luis": {
@@ -65,38 +60,38 @@
     "rating_prev": 0
   },
   "Luquinhas": {
-    "rating": 0,
-    "games": 0,
+    "rating": -2.3999999999999986,
+    "games": 3,
     "rating_prev": 0
   },
   "Marcin": {
-    "rating": 0,
-    "games": 0,
+    "rating": 41,
+    "games": 3,
     "rating_prev": 0
   },
   "Matheus": {
-    "rating": -63.0,
-    "games": 5,
+    "rating": -56.400000000000006,
+    "games": 9,
     "rating_prev": 0
   },
   "Nakamura": {
-    "rating": -2.6999999999999975,
-    "games": 5,
+    "rating": 30.300000000000004,
+    "games": 10,
     "rating_prev": 0
   },
   "Notlin": {
-    "rating": 0,
-    "games": 0,
+    "rating": 24.0,
+    "games": 5,
     "rating_prev": 0
   },
   "Pablo": {
-    "rating": 37,
-    "games": 2,
+    "rating": 72.1,
+    "games": 7,
     "rating_prev": 0
   },
   "Pedro": {
-    "rating": 0,
-    "games": 0,
+    "rating": 21,
+    "games": 1,
     "rating_prev": 0
   },
   "Renato": {
@@ -105,8 +100,8 @@
     "rating_prev": 0
   },
   "Rian": {
-    "rating": 36.0,
-    "games": 4,
+    "rating": 45.0,
+    "games": 5,
     "rating_prev": 0
   },
   "Samuel": {
@@ -115,13 +110,18 @@
     "rating_prev": 0
   },
   "Vinicius": {
-    "rating": 6.0,
-    "games": 2,
+    "rating": 39.2,
+    "games": 5,
     "rating_prev": 0
   },
   "Mauricio": {
-    "rating": 24.200000000000003,
-    "games": 3,
+    "rating": 8.100000000000005,
+    "games": 4,
+    "rating_prev": 0
+  },
+  "Bruno": {
+    "rating": 0,
+    "games": 0,
     "rating_prev": 0
   }
 }
