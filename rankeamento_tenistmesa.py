@@ -133,6 +133,21 @@ def atualizar_rating():
     save_data()
     print("\nTodos os ratings foram atualizados!\n")
 
+# ------------------ NOVAS FUNÇÕES ------------------
+def resetar_games():
+    for p in players.values():
+        p["games"] = 0
+    save_data()
+    print("\nTodas as partidas foram resetadas! (pontuação mantida)\n")
+
+def resetar_games_jogador(nome: str):
+    if nome in players:
+        players[nome]["games"] = 0
+        save_data()
+        print(f"Partidas de {nome} foram resetadas! (pontuação mantida)")
+    else:
+        print("Jogador não encontrado.")
+
 # ------------------ MENU PRINCIPAL ------------------
 def main_menu():
     load_data()
@@ -143,7 +158,8 @@ def main_menu():
         print("3) Adicionar jogador")
         print("4) Remover jogador")
         print("5) Atualizar ratings (aplicar saldos)")
-        print("6) Resetar tudo")
+        print("6) Resetar partidas de todos os jogadores")
+        print("7) Resetar partidas de um jogador")
         print("0) Sair")
         escolha = input("Escolha: ").strip()
 
@@ -175,12 +191,13 @@ def main_menu():
         elif escolha == "5":
             atualizar_rating()
         elif escolha == "6":
-            confirm = input("Digite SIM para confirmar reset: ")
+            confirm = input("Digite SIM para confirmar reset de todas as partidas: ")
             if confirm == "SIM":
-                if os.path.exists(DATA_FILE):
-                    os.remove(DATA_FILE)
-                load_data()
-                print("Reset concluído.")
+                resetar_games()
+        elif escolha == "7":
+            nome = select_player_by_number("Escolha o jogador: ")
+            if nome:
+                resetar_games_jogador(nome)
         elif escolha == "0":
             print("Saindo...")
             break
