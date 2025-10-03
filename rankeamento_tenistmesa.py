@@ -15,13 +15,6 @@ GAMES_THRESHOLD = 10 # Controle para iniciante
 MIN_DELTA = 1
 MAX_DELTA = 50
 
-INITIAL_PLAYERS = [
-    "Allyson", "Beatriz", "Diego", "Emilly", "Everton", "Gilberto",
-    "Guilherme", "Gustavo", "Ingrid", "Julio", "Kaua", "Lucas",
-    "Luis", "Luquinhas", "Marcin", "Matheus", "Nakamura", "Notlin",
-    "Pablo", "Pedro", "Renato", "Rian", "Samuel", "Vinicius"
-]
-
 players = {}
 
 # ------------------ FUNÇÕES AUXILIARES ------------------
@@ -50,9 +43,6 @@ def load_data():
         except Exception as e:
             print("Erro ao carregar, criando lista inicial:", e)
             players = {}
-    if not players:
-        players = {n: {"rating": 0, "games": 0, "rating_prev": 0} for n in INITIAL_PLAYERS}
-        save_data()
 
 def show_ranking():
     if not players:
@@ -104,6 +94,11 @@ def select_player_by_number(prompt: str):
 
 def record_match(winner: str, loser: str):
     """Calcula o delta e armazena em rating_prev sem alterar rating real."""
+
+    if players[winner]["games"] >= 5 or players[loser]["games"] >= 5:
+        print("Um dos jogadores já realizou suas 5 partidas semanais. Resete o numero de partidas no inicio de cada semana.")
+        return
+
     if winner == loser:
         print("Vencedor e perdedor não podem ser o mesmo.")
         return
@@ -158,8 +153,8 @@ def main_menu():
         print("3) Adicionar jogador")
         print("4) Remover jogador")
         print("5) Atualizar ratings (aplicar saldos)")
-        print("6) Resetar partidas de todos os jogadores")
-        print("7) Resetar partidas de um jogador")
+        print("6) Resetar numero de partidas de todos os jogadores")
+        print("7) Resetar numero partidas de um jogador")
         print("0) Sair")
         escolha = input("Escolha: ").strip()
 

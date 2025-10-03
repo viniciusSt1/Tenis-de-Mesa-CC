@@ -15,8 +15,8 @@
     "rating_prev": 0
   },
   "Everton": {
-    "rating": 23,
-    "games": 0,
+    "rating": 28.3,
+    "games": 2,
     "rating_prev": 0
   },
   "Gilberto": {
@@ -25,13 +25,13 @@
     "rating_prev": 0
   },
   "Guilherme": {
-    "rating": 37.7,
-    "games": 0,
+    "rating": 13.200000000000006,
+    "games": 3,
     "rating_prev": 0
   },
-  "Gustavo": {
-    "rating": -98.0,
-    "games": 0,
+  "Gustavo Pastor": {
+    "rating": -84.5,
+    "games": 4,
     "rating_prev": 0
   },
   "Ingrid": {
@@ -45,11 +45,11 @@
     "rating_prev": 0
   },
   "Kaua": {
-    "rating": 8.100000000000005,
-    "games": 0,
+    "rating": 43.5,
+    "games": 5,
     "rating_prev": 0
   },
-  "Lucas": {
+  "Lucas Fioravante": {
     "rating": -34.3,
     "games": 0,
     "rating_prev": 0
@@ -60,13 +60,13 @@
     "rating_prev": 0
   },
   "Luquinhas": {
-    "rating": 30.300000000000004,
-    "games": 0,
+    "rating": 73.80000000000001,
+    "games": 4,
     "rating_prev": 0
   },
   "Marcin": {
-    "rating": 41,
-    "games": 0,
+    "rating": 61.6,
+    "games": 4,
     "rating_prev": 0
   },
   "Matheus": {
@@ -75,8 +75,8 @@
     "rating_prev": 0
   },
   "Nakamura": {
-    "rating": 30.300000000000004,
-    "games": 0,
+    "rating": 23.000000000000007,
+    "games": 5,
     "rating_prev": 0
   },
   "Notlin": {
@@ -85,8 +85,8 @@
     "rating_prev": 0
   },
   "Pablo": {
-    "rating": 72.1,
-    "games": 0,
+    "rating": 87.1,
+    "games": 1,
     "rating_prev": 0
   },
   "Pedro": {
@@ -115,8 +115,8 @@
     "rating_prev": 0
   },
   "Mauricio": {
-    "rating": 27.100000000000005,
-    "games": 0,
+    "rating": 34.10000000000001,
+    "games": 2,
     "rating_prev": 0
   },
   "Bruno": {
@@ -127,6 +127,21 @@
   "Gustavo N": {
     "rating": 0,
     "games": 0,
+    "rating_prev": 0
+  },
+  "Jaqueline": {
+    "rating": 15.4,
+    "games": 4,
+    "rating_prev": 0
+  },
+  "Marcos Nareba": {
+    "rating": -14.0,
+    "games": 1,
+    "rating_prev": 0
+  },
+  "AllysonBOA": {
+    "rating": -9.1,
+    "games": 1,
     "rating_prev": 0
   }
 }
