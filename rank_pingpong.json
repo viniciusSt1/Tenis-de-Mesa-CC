@@ -5,8 +5,8 @@
     "rating_prev": 0
   },
   "Diego": {
-    "rating": -14.0,
-    "games": 0,
+    "rating": -37.099999999999994,
+    "games": 2,
     "rating_prev": 0
   },
   "Emilly": {
@@ -100,8 +100,8 @@
     "rating_prev": 0
   },
   "Rian": {
-    "rating": 45.0,
-    "games": 0,
+    "rating": 12.100000000000001,
+    "games": 2,
     "rating_prev": 0
   },
   "Samuel": {
@@ -111,7 +111,7 @@
   },
   "Vinicius": {
     "rating": 39.2,
-    "games": 0,
+    "games": 4,
     "rating_prev": 0
   },
   "Mauricio": {
@@ -140,8 +140,8 @@
     "rating_prev": 0
   },
   "AllysonBOA": {
-    "rating": -9.1,
-    "games": 1,
+    "rating": 85.9,
+    "games": 5,
     "rating_prev": 0
   }
 }
