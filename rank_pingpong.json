@@ -5,7 +5,7 @@
     "rating_prev": 0
   },
   "Diego": {
-    "rating": -14.0,
+    "rating": -37.099999999999994,
     "games": 0,
     "rating_prev": 0
   },
@@ -16,7 +16,7 @@
   },
   "Everton": {
     "rating": 28.3,
-    "games": 2,
+    "games": 0,
     "rating_prev": 0
   },
   "Gilberto": {
@@ -26,12 +26,12 @@
   },
   "Guilherme": {
     "rating": 13.200000000000006,
-    "games": 3,
+    "games": 0,
     "rating_prev": 0
   },
   "Gustavo Pastor": {
-    "rating": -84.5,
-    "games": 4,
+    "rating": -102.0,
+    "games": 3,
     "rating_prev": 0
   },
   "Ingrid": {
@@ -45,8 +45,8 @@
     "rating_prev": 0
   },
   "Kaua": {
-    "rating": 43.5,
-    "games": 5,
+    "rating": 50.5,
+    "games": 1,
     "rating_prev": 0
   },
   "Lucas Fioravante": {
@@ -61,32 +61,32 @@
   },
   "Luquinhas": {
     "rating": 73.80000000000001,
-    "games": 4,
+    "games": 0,
     "rating_prev": 0
   },
   "Marcin": {
     "rating": 61.6,
-    "games": 4,
+    "games": 0,
     "rating_prev": 0
   },
   "Matheus": {
-    "rating": -56.400000000000006,
-    "games": 0,
+    "rating": -64.10000000000001,
+    "games": 1,
     "rating_prev": 0
   },
   "Nakamura": {
-    "rating": 23.000000000000007,
-    "games": 5,
+    "rating": 69.0,
+    "games": 4,
     "rating_prev": 0
   },
   "Notlin": {
-    "rating": 24.0,
-    "games": 0,
+    "rating": 31.1,
+    "games": 2,
     "rating_prev": 0
   },
   "Pablo": {
     "rating": 87.1,
-    "games": 1,
+    "games": 0,
     "rating_prev": 0
   },
   "Pedro": {
@@ -100,8 +100,8 @@
     "rating_prev": 0
   },
   "Rian": {
-    "rating": 45.0,
-    "games": 0,
+    "rating": 11.300000000000004,
+    "games": 3,
     "rating_prev": 0
   },
   "Samuel": {
@@ -110,13 +110,13 @@
     "rating_prev": 0
   },
   "Vinicius": {
-    "rating": 39.2,
-    "games": 0,
+    "rating": 46.60000000000001,
+    "games": 4,
     "rating_prev": 0
   },
   "Mauricio": {
     "rating": 34.10000000000001,
-    "games": 2,
+    "games": 0,
     "rating_prev": 0
   },
   "Bruno": {
@@ -125,23 +125,28 @@
     "rating_prev": 0
   },
   "Gustavo N": {
-    "rating": 0,
-    "games": 0,
+    "rating": -13.299999999999999,
+    "games": 1,
     "rating_prev": 0
   },
   "Jaqueline": {
     "rating": 15.4,
-    "games": 4,
+    "games": 0,
     "rating_prev": 0
   },
   "Marcos Nareba": {
     "rating": -14.0,
-    "games": 1,
+    "games": 0,
     "rating_prev": 0
   },
   "AllysonBOA": {
-    "rating": -9.1,
+    "rating": 100.9,
     "games": 1,
+    "rating_prev": 0
+  },
+  "João Henrique": {
+    "rating": 0,
+    "games": 0,
     "rating_prev": 0
   }
 }
